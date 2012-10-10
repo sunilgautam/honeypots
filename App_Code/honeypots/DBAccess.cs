@@ -1,6 +1,6 @@
-﻿using System.Data.SqlClient;
+﻿using System;
 using System.Data;
-using System;
+using System.Data.SqlClient;
 
 namespace honeypots
 {
@@ -13,7 +13,7 @@ namespace honeypots
             
         }
 
-        protected void LogRequest(honeypots.UserLog objUserLog)
+        internal void LogRequest(honeypots.UserLog objUserLog)
         {
             try
             {
@@ -32,8 +32,8 @@ namespace honeypots
                 cmd.Parameters.Add("@REQUEST_CONTENT_SIZE", SqlDbType.BigInt).Value = objUserLog.Request_Content_Size;
                 cmd.Parameters.Add("@RESPOSE_STATUS", SqlDbType.Int).Value = objUserLog.Request_Status;
                 cmd.Parameters.Add("@REQUEST_START_TIME", SqlDbType.DateTime).Value = objUserLog.Request_Started_At;
-                cmd.Parameters.Add("REQUEST_END_TIME", SqlDbType.DateTime).Value = objUserLog.Request_Ended_At;
-                cmd.Parameters.Add("@PROCESSING_TIME", SqlDbType.Decimal).Value = objUserLog.Request_Processing_Time;
+                cmd.Parameters.Add("@REQUEST_END_TIME", SqlDbType.DateTime).Value = objUserLog.Request_Ended_At;
+                cmd.Parameters.Add("@PROCESSING_TIME", SqlDbType.VarChar).Value = Convert.ToString(objUserLog.Request_Processing_Time);
 
                 hCon.Open();
                 cmd.ExecuteNonQuery();

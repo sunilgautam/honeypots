@@ -1,0 +1,119 @@
+﻿*
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body
+{
+    font: 62.5%/1.5 Arial, Helvetica, sans-serif;
+    background: url(../images/bgimage.gif) repeat;
+    color: #000000;
+    text-align: center;
+}
+
+/* Styles for layout
+-----------------------------------------------------------------------------*/
+
+.clear
+{
+	clear:both;
+}
+
+.right
+{
+	float: right;
+}
+
+.left
+{
+	float: left;
+}
+
+/* Typography
+-----------------------------------------------------------------------------*/
+
+h1
+{
+	font-size: 2.2em; /* Equivalent to 22pt */
+}
+
+h2
+{
+	font-size: 2.0em; /* Equivalent to 20pt */
+}
+
+h3
+{
+	font-size: 1.8em; /* Equivalent to 18pt */
+}
+
+h4
+{
+	font-size: 1.6em; /* Equivalent to 18pt */
+}
+
+h5
+{
+	font-size: 1.4em; /* Equivalent to 14pt */
+}
+
+p, q, cite
+{
+	font-size: 1.2em; /* Equivalent to 12pt */
+}
+
+ul, ol, dl
+{
+	list-style: none;
+	font-size: 1.2em; /* Equivalent to 12pt */
+}
+
+li, dd, dt
+{
+	font-size: 1.2em; /* Equivalent to 12pt */	
+}
+
+/* Forms
+-----------------------------------------------------------------------------*/
+
+
+/* Tables 
+-----------------------------------------------------------------------------*/
+table
+{ 
+  	border-spacing: 0;
+	border-collapse: collapse;
+}
+
+td 
+{
+  	text-align: left;
+	font-weight: normal;
+}
+
+.completeWidth
+{
+    width: 100%;
+}
+
+.keepCenter
+{
+    width: 980px;
+    text-align:justify;
+    margin: 0px auto;
+}
+
+.center
+{
+    margin: 0px auto;
+}
+
+.KeepBottom
+{
+	position: absolute;
+	bottom:0px;
+	width:100%;
+	margin:0 auto;
+}

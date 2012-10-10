@@ -34,8 +34,8 @@ public class UserLogs : Page
         int ContentSize = baseContext.Request.ContentLength;
         int Status = baseContext.Response.StatusCode;
         
-    //NewGUID:
-    //    Guid useridentity = System.Guid.NewGuid();
+        //NewGUID:
+        //Guid useridentity = System.Guid.NewGuid();
         //baseContext.Session["useridentity"] = useridentity.ToString();
 
         using (SqlCommand cmd = new SqlCommand("AddUserLog", ConnectionManager.GetConnection()))
