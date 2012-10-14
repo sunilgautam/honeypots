@@ -153,12 +153,13 @@
 
 .footerWrapper
 {
-    border:solid 1px green;
+    border:solid 0px green;
+    margin-bottom: 30px;
 }
 
 .footMenuWrape
 {
-    border:solid 1px red;
+    border:solid 0px red;
     width:600px;
 }
 
@@ -186,3 +187,40 @@
 	text-decoration:underline;
 }
 /*FOOTER PART END*/
+
+.inpText
+{
+    padding: 4px;
+    width:200px;
+    border-color: #96A6C5;
+    border: 1px solid #C0C0C0;
+    font-family: arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: white;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    direction: ltr;
+}
+
+.dropList
+{
+    padding: 5px;
+    height: auto;
+    /*height: 30px;*/
+    border: 1px solid #C0C0C0;
+    font-family: arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    color: black;
+    background-color: white;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    direction: ltr;
+}

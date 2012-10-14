@@ -46,6 +46,10 @@
         <div class="clear"></div>
     </div>
 </div>
+<div class="completeWidth footerFull">
+    <div class="keepCenter footerWrapper">
+    </div>
+</div>
 </form>
 </body>
 </html>

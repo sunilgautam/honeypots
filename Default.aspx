@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
     <div>
     <a href="Default2.aspx">GO</a>
+        <asp:Button ID="Button1" runat="server" Text="Button" onclick="Button1_Click" />
     </div>
     </form>
 </body>

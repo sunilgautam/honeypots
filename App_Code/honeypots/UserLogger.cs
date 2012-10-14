@@ -18,6 +18,7 @@ namespace honeypots
 
         internal void StartUserLog(HttpContext baseContext)
         {
+            objUserLog.User_Agent = baseContext.Request.UserAgent;
             objUserLog.Browser = GetBrowser(baseContext);
             string[] user_domain = GetDomain(baseContext);
             objUserLog.Domain = user_domain[0];
@@ -33,6 +34,7 @@ namespace honeypots
                 objUserLog.Page_Referer = string.Empty;
             }
             objUserLog.Platform = baseContext.Request.Browser.Platform + "/" + baseContext.Request.UserAgent;
+            objUserLog.User_Lang = string.Join(",", baseContext.Request.UserLanguages);
             objUserLog.Request_Content_Size = baseContext.Request.ContentLength;
             objUserLog.Request_Type = baseContext.Request.RequestType;
             objUserLog.Request_Started_At = DateTime.Now;
@@ -45,6 +47,7 @@ namespace honeypots
 
         internal void EndUserLog(HttpContext baseContext)
         {
+            objUserLog.Mime_Type = baseContext.Response.ContentType;
             objUserLog.Request_Status = baseContext.Response.StatusCode;
             objUserLog.Request_Ended_At = DateTime.Now;
             objUserLog.Request_Processing_Time = (objUserLog.Request_Ended_At - objUserLog.Request_Started_At).TotalMilliseconds;

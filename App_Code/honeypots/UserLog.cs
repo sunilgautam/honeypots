@@ -9,7 +9,7 @@ namespace honeypots
     {
         public UserLog()
         {
-
+            //  @MIME_TYPE
         }
 
         private long _Log_Id;
@@ -33,6 +33,13 @@ namespace honeypots
             set { _Domain = value; }
         }
 
+        private string _User_Agent;
+        public string User_Agent
+        {
+            get { return _User_Agent; }
+            set { _User_Agent = value; }
+        }
+
         private string _Browser;
         public string Browser
         {
@@ -47,6 +54,13 @@ namespace honeypots
             set { _Platform = value; }
         }
 
+        private string _Mime_Type;
+        public string Mime_Type
+        {
+            get { return _Mime_Type; }
+            set { _Mime_Type = value; }
+        }
+
         private string _Location;
         public string Location
         {
@@ -59,6 +73,13 @@ namespace honeypots
         {
             get { return _Request_Type; }
             set { _Request_Type = value; }
+        }
+
+        private string _User_Lang;
+        public string User_Lang
+        {
+            get { return _User_Lang; }
+            set { _User_Lang = value; }
         }
 
         private string _Page;
