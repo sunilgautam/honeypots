@@ -4,6 +4,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "honeypots-app", "honeypots-app\", "{58B5F83D-B95A-4AD6-93F3-4FB065405680}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{E0C14DD2-6B54-468D-912C-9D1E89120411}|honeypots.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/honeypots-app"
 		Debug.AspNetCompiler.PhysicalPath = "honeypots-app\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\honeypots-app\"
