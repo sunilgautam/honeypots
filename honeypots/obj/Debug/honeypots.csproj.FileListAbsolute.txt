@@ -1,0 +1,5 @@
+D:\Visual Studio\projects\honeypots\honeypots\bin\Debug\honeypots.dll
+D:\Visual Studio\projects\honeypots\honeypots\bin\Debug\honeypots.pdb
+D:\Visual Studio\projects\honeypots\honeypots\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio\projects\honeypots\honeypots\obj\Debug\honeypots.dll
+D:\Visual Studio\projects\honeypots\honeypots\obj\Debug\honeypots.pdb
