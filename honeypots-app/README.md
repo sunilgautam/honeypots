@@ -1,4 +1,0 @@
-honeypots
-=========
-
-web tracking project

@@ -1,0 +1,3 @@
+﻿select REQUEST_PAGE from user_logs
+where MIME_TYPE IN ('text/html')
+group by REQUEST_PAGE

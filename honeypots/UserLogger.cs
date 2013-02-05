@@ -11,6 +11,8 @@ namespace honeypots
     {
         private UserLog objUserLog;
         private DBAccess objDBAccess;
+        log4net.ILog loggerInfo = log4net.LogManager.GetLogger("InfoLogger");
+        log4net.ILog loggerError = log4net.LogManager.GetLogger("ErrorLogger");
         public UserLogger()
         {
             objUserLog = new UserLog();
@@ -20,11 +22,8 @@ namespace honeypots
         {
             objUserLog.User_Agent = baseContext.Request.UserAgent;
             objUserLog.Browser = GetBrowser(baseContext);
-            string[] user_domain = GetDomain(baseContext);
-            objUserLog.Domain = user_domain[0];
-            objUserLog.Location = user_domain[1];
             objUserLog.Log_Id = 0;
-            objUserLog.Page = baseContext.Request.Url.ToString();
+            objUserLog.Page = baseContext.Request.Url.AbsolutePath;
             if (baseContext.Request.UrlReferrer != null)
             {
                 objUserLog.Page_Referer = baseContext.Request.UrlReferrer.ToString();
@@ -42,7 +41,13 @@ namespace honeypots
 
         internal void SetUserLogState(HttpContext baseContext)
         {
-            objUserLog.Session_Id = baseContext.Session.SessionID;
+            if (baseContext.Session != null)
+            {
+                objUserLog.Session_Id = baseContext.Session.SessionID;
+            }
+            string[] user_domain = GetDomain(baseContext);
+            objUserLog.Domain = user_domain[0];
+            objUserLog.Location = user_domain[1];
         }
 
         internal void EndUserLog(HttpContext baseContext)
@@ -57,12 +62,22 @@ namespace honeypots
         {
             objDBAccess = new DBAccess();
             objDBAccess.LogRequest(this.objUserLog);
+
+            loggerInfo.Info(this.objUserLog.ToString());
+        }
+
+        internal void SubmitErrorLog(Exception ex)
+        {
+            string errorStr = string.Format("\r\n   ===============|| ERROR DETAILS ||===============\r\n   {0}\r\n{1}", ex.Message, ex.StackTrace);
+            loggerError.Error(errorStr);
+
+            EmailHelper.Instance.Send("Error occured in application", string.Format("Following error occured in application at {0}<br />{1}", DateTime.Now.ToString(), errorStr.Replace("\r\n", "<br />")));
         }
 
         protected string[] GetDomain(HttpContext baseContext)
         {
-            string ipaddress;
-            string[] domaindetail = new string[2];
+            string ipaddress = null;
+            string[] domaindetail = { "--", "--" };
             string[] domain = { "--", "--", "--", "--", "--", "--", "--", "--", "--", "--", "--", "--", "--", "--" };
             ipaddress = baseContext.Request.ServerVariables["HTTP_X_FORWARDED_FOR"];
             if (ipaddress == null)
@@ -73,34 +88,38 @@ namespace honeypots
             {
                 if (ipaddress != "127.0.0.1")
                 {
-                    HttpWebRequest request = (HttpWebRequest)WebRequest.Create(ConfigurationManager.AppSettings["honeypots.api.key"].ToString() + "&ip=" + ipaddress);
-                    HttpWebResponse response = (HttpWebResponse)request.GetResponse();
-                    if (response.StatusCode == HttpStatusCode.OK)
+                    if (baseContext.Session != null && baseContext.Session.IsNewSession)
                     {
-                        Stream stream = response.GetResponseStream();
-                        XmlTextReader textReader = new XmlTextReader(stream);
-                        //XmlTextReader textReader = new XmlTextReader(Server.MapPath("~/Test/XMLFile2.xml"));
-                        textReader.WhitespaceHandling = WhitespaceHandling.None;
-                        int i = -2;
-                        while (textReader.Read())
+                        HttpWebRequest request = (HttpWebRequest)WebRequest.Create(ConfigurationManager.AppSettings["honeypots.api.key"].ToString() + "&ip=" + ipaddress);
+                        HttpWebResponse response = (HttpWebResponse)request.GetResponse();
+                        if (response.StatusCode == HttpStatusCode.OK)
                         {
-                            switch (textReader.NodeType)
+                            Stream stream = response.GetResponseStream();
+                            XmlTextReader textReader = new XmlTextReader(stream);
+                            //XmlTextReader textReader = new XmlTextReader(Server.MapPath("~/Test/XMLFile2.xml"));
+                            textReader.WhitespaceHandling = WhitespaceHandling.None;
+                            int i = -2;
+                            while (textReader.Read())
                             {
-                                case XmlNodeType.Element:
-                                    //if (textReader.IsEmptyElement)
-                                    //{
-                                    i++;
-                                    //}
-                                    break;
-                                case XmlNodeType.Text:
-                                    domain[i] = textReader.Value;
-                                    //i++;
-                                    break;
+                                switch (textReader.NodeType)
+                                {
+                                    case XmlNodeType.Element:
+                                        //if (textReader.IsEmptyElement)
+                                        //{
+                                        i++;
+                                        //}
+                                        break;
+                                    case XmlNodeType.Text:
+                                        domain[i] = textReader.Value;
+                                        //i++;
+                                        break;
+                                }
                             }
                         }
                     }
                 }
             }
+
             domaindetail[0] = domain[2] + "/" + domain[4] + "/" + domain[5] + "/" + ipaddress;
             domaindetail[1] = domain[7] + "/" + domain[8];
             return domaindetail;

@@ -43,7 +43,7 @@ namespace honeypots
             }
             catch (Exception ex)
             {
-
+                throw ex;
             }
             finally
             {

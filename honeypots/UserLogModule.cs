@@ -23,6 +23,7 @@ namespace honeypots
             context.BeginRequest += new EventHandler(context_BeginRequest);
             context.EndRequest += new EventHandler(context_EndRequest);
             context.PostAcquireRequestState += new EventHandler(context_PostAcquireRequestState);
+            context.Error += new EventHandler(context_Error);
         }
 
         void context_BeginRequest(object sender, EventArgs e)
@@ -35,7 +36,8 @@ namespace honeypots
             }
             catch (Exception ex)
             {
-
+                objUserLogger.SubmitErrorLog(ex);
+                HandleResponseOnError();
             }
         }
 
@@ -51,7 +53,8 @@ namespace honeypots
             }
             catch (Exception ex)
             {
-
+                objUserLogger.SubmitErrorLog(ex);
+                HandleResponseOnError();
             }
         }
 
@@ -68,7 +71,40 @@ namespace honeypots
             }
             catch (Exception ex)
             {
-                
+                objUserLogger.SubmitErrorLog(ex);
+                HandleResponseOnError();
+            }
+        }
+
+        void context_Error(object sender, EventArgs e)
+        {
+            try
+            {
+                HttpApplication context = ((HttpApplication)sender);
+                if (objUserLogger != null)
+                {
+                    objUserLogger.SubmitErrorLog(context.Context.Server.GetLastError());
+                    HandleResponseOnError();
+                }
+            }
+            catch (Exception ex)
+            {
+                objUserLogger.SubmitErrorLog(ex);
+                HandleResponseOnError();
+            }
+        }
+
+        void HandleResponseOnError()
+        {
+            // CHECK IF CUSTOM ERROR IS NOT ENABLED IN WEBSITE
+            if (!HttpContext.Current.IsCustomErrorEnabled)
+            {
+                HttpContext.Current.Response.Clear();
+                HttpContext.Current.Response.ContentType = "text/html";
+                HttpContext.Current.Response.Write("<html><head><title>Error</title></head><body>");
+                HttpContext.Current.Response.Write("<div><h2>Error occured in application !!!</h2><br /><u>handled by honeypots error handler</u></div>");
+                HttpContext.Current.Response.Write("</body></html>");
+                HttpContext.Current.Response.End();
             }
         }
     }

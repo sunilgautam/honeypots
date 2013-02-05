@@ -130,5 +130,12 @@ namespace honeypots
             get { return _Request_Processing_Time; }
             set { _Request_Processing_Time = value; }
         }
+
+        public override string ToString()
+        {
+            //return string.Format("{0} | {1} | {2} | {3} | {4} | {5} | {6} | {7} | {8} | {9} | {10} | {11} | {12} | {13} | {14} | {15}", Session_Id, Domain, User_Agent, Browser, Platform, User_Lang, Location, Request_Type, Mime_Type, Page, Page_Referer, Request_Content_Size, Request_Status, Request_Started_At, Request_Ended_At, Convert.ToString(Request_Processing_Time));
+            //return string.Format("{0} \t|\t {1} \t|\t {2} \t|\t {3} \t|\t {4} \t|\t {5} \t|\t {6} \t|\t {7} \t|\t {8} \t|\t {9} \t|\t {10} \t|\t {11} \t|\t {12} \t|\t {13} \t|\t {14} \t|\t {15}", Session_Id, Domain, User_Agent, Browser, Platform, User_Lang, Location, Request_Type, Mime_Type, Page, Page_Referer, Request_Content_Size, Request_Status, Request_Started_At, Request_Ended_At, Convert.ToString(Request_Processing_Time));
+            return string.Format("\r\n\t===============|| REQUEST LOG DETAILS ||===============\r\n\t USER_SESSION_ID => {0}\r\n\t USER_DOMAIN => {1}\r\n\t USER_AGENT => {2}\r\n\t USER_BROWSER => {3}\r\n\t USER_PLATFORM => {4}\r\n\t USER_LANG => {5}\r\n\t USER_LOCATION => {6}\r\n\t REQUEST_TYPE => {7}\r\n\t MIME_TYPE => {8}\r\n\t REQUEST_PAGE => {9}\r\n\t REQUEST_REFERER => {10}\r\n\t REQUEST_CONTENT_SIZE => {11}\r\n\t RESPOSE_STATUS => {12}\r\n\t REQUEST_START_TIME => {13}\r\n\t REQUEST_END_TIME => {14}\r\n\t PROCESSING_TIME => {15}", Session_Id, Domain, User_Agent, Browser, Platform, User_Lang, Location, Request_Type, Mime_Type, Page, Page_Referer, Request_Content_Size, Request_Status, Request_Started_At, Request_Ended_At, Convert.ToString(Request_Processing_Time));
+        }
     }
 }
