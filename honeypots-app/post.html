@@ -1,0 +1,23 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Contact</title>
+    <script type="text/javascript" src="Scripts/jquery-1.4.1.min.js"></script>
+    <script type="text/javascript">
+        $.ajax({
+            type: "GET",
+            url: "http://localhost:1922/honeypots-app/like.aspx",
+            cache: false,
+            success: function (data) {
+                $('#like_box').html(data);
+            }
+        });
+    </script>
+</head>
+<body>
+    <div>
+        <div id="like_box" style="width: 300px; float:right; border: solid #222 1px;">
+            
+        </div>
+    </div>
+</body>
+</html>
