@@ -23,7 +23,7 @@ namespace honeypots
             context.BeginRequest += new EventHandler(context_BeginRequest);
             context.EndRequest += new EventHandler(context_EndRequest);
             context.PostAcquireRequestState += new EventHandler(context_PostAcquireRequestState);
-            context.Error += new EventHandler(context_Error);
+            //context.Error += new EventHandler(context_Error);
         }
 
         void context_BeginRequest(object sender, EventArgs e)

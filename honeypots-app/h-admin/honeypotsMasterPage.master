@@ -25,7 +25,16 @@
             <div class="menuContainer">
                 <ul class="menuBar">
                     <li>
+                        <a href="home.aspx" title="">Home</a>
+                    </li>
+                    <li>
                         <a href="useractivity.aspx" title="">User activity</a>
+                    </li>
+                    <li>
+                        <a href="activityhistory.aspx" title="">Activity history</a>
+                    </li>
+                    <li>
+                        <a href="performance.aspx" title="">Page performance</a>
                     </li>
                 </ul>
                 <div class="clear"></div>

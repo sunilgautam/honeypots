@@ -1,1800 +1,792 @@
-2013-02-26 19:07:13,426 [INFO] InfoLogger 
+2013-03-24 10:49:25,748 [INFO] InfoLogger 
 	===============|| REQUEST LOG DETAILS ||===============
 	 USER_SESSION_ID => 
 	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_BROWSER => IE/8.0
-	 USER_PLATFORM => WinNT/Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_LANG => en-US
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => application/x-javascript
-	 REQUEST_PAGE => /honeypots-app/Scripts/jquery-1.4.1.min.js
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:07:13 PM
-	 REQUEST_END_TIME => 26/02/2013 7:07:13 PM
-	 PROCESSING_TIME => 0
-2013-02-26 19:07:13,507 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => d22p1idf2q0pq4pycu0t5orm
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_BROWSER => IE/8.0
-	 USER_PLATFORM => WinNT/Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_LANG => en-US
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:07:13 PM
-	 REQUEST_END_TIME => 26/02/2013 7:07:13 PM
-	 PROCESSING_TIME => 1
-2013-02-26 19:07:52,884 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/post.html
-	 REQUEST_REFERER => 
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:07:52 PM
-	 REQUEST_END_TIME => 26/02/2013 7:07:52 PM
-	 PROCESSING_TIME => 3.0001
-2013-02-26 19:07:52,905 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
 	 USER_LANG => en-US,en;q=0.8
 	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => application/x-javascript
-	 REQUEST_PAGE => /honeypots-app/Scripts/jquery-1.4.1.min.js
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:07:52 PM
-	 REQUEST_END_TIME => 26/02/2013 7:07:52 PM
-	 PROCESSING_TIME => 0
-2013-02-26 19:07:53,746 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => efnodz4552jwwnjt53qr5f55
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:07:53 PM
-	 REQUEST_END_TIME => 26/02/2013 7:07:53 PM
-	 PROCESSING_TIME => 745.0426
-2013-02-26 19:08:00,476 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => efnodz4552jwwnjt53qr5f55
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 252
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:08:00 PM
-	 REQUEST_END_TIME => 26/02/2013 7:08:00 PM
-	 PROCESSING_TIME => 3.0001
-2013-02-26 19:09:36,832 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => efnodz4552jwwnjt53qr5f55
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:09:36 PM
-	 REQUEST_END_TIME => 26/02/2013 7:09:36 PM
-	 PROCESSING_TIME => 610.0349
-2013-02-26 19:09:37,157 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/post.html
-	 REQUEST_REFERER => 
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:09:37 PM
-	 REQUEST_END_TIME => 26/02/2013 7:09:37 PM
-	 PROCESSING_TIME => 3.0002
-2013-02-26 19:09:37,173 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => application/x-javascript
-	 REQUEST_PAGE => /honeypots-app/Scripts/jquery-1.4.1.min.js
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:09:37 PM
-	 REQUEST_END_TIME => 26/02/2013 7:09:37 PM
-	 PROCESSING_TIME => 1
-2013-02-26 19:09:37,271 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => efnodz4552jwwnjt53qr5f55
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:09:37 PM
-	 REQUEST_END_TIME => 26/02/2013 7:09:37 PM
-	 PROCESSING_TIME => 2.0001
-2013-02-26 19:09:38,174 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/post.html
-	 REQUEST_REFERER => 
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:09:38 PM
-	 REQUEST_END_TIME => 26/02/2013 7:09:38 PM
-	 PROCESSING_TIME => 2.0001
-2013-02-26 19:09:38,202 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => application/x-javascript
-	 REQUEST_PAGE => /honeypots-app/Scripts/jquery-1.4.1.min.js
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:09:38 PM
-	 REQUEST_END_TIME => 26/02/2013 7:09:38 PM
-	 PROCESSING_TIME => 0
-2013-02-26 19:09:38,303 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => efnodz4552jwwnjt53qr5f55
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:09:38 PM
-	 REQUEST_END_TIME => 26/02/2013 7:09:38 PM
-	 PROCESSING_TIME => 2.0001
-2013-02-26 19:09:41,736 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => efnodz4552jwwnjt53qr5f55
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 260
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:09:41 PM
-	 REQUEST_END_TIME => 26/02/2013 7:09:41 PM
-	 PROCESSING_TIME => 4.0002
-2013-02-26 19:09:44,346 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => efnodz4552jwwnjt53qr5f55
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:09:44 PM
-	 REQUEST_END_TIME => 26/02/2013 7:09:44 PM
-	 PROCESSING_TIME => 2.0001
-2013-02-26 19:09:45,292 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => efnodz4552jwwnjt53qr5f55
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 258
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:09:45 PM
-	 REQUEST_END_TIME => 26/02/2013 7:09:45 PM
-	 PROCESSING_TIME => 4.0002
-2013-02-26 19:09:47,236 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => efnodz4552jwwnjt53qr5f55
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:09:47 PM
-	 REQUEST_END_TIME => 26/02/2013 7:09:47 PM
-	 PROCESSING_TIME => 3.0002
-2013-02-26 19:10:03,400 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => efnodz4552jwwnjt53qr5f55
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 259
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:03 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:03 PM
-	 PROCESSING_TIME => 8.0005
-2013-02-26 19:10:06,604 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => efnodz4552jwwnjt53qr5f55
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:06 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:06 PM
-	 PROCESSING_TIME => 2.0001
-2013-02-26 19:10:07,359 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => efnodz4552jwwnjt53qr5f55
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 260
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:07 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:07 PM
-	 PROCESSING_TIME => 7.0004
-2013-02-26 19:10:08,570 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => efnodz4552jwwnjt53qr5f55
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:08 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:08 PM
-	 PROCESSING_TIME => 2.0001
-2013-02-26 19:10:09,297 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => efnodz4552jwwnjt53qr5f55
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 258
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:09 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:09 PM
-	 PROCESSING_TIME => 2.0001
-2013-02-26 19:10:10,380 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => efnodz4552jwwnjt53qr5f55
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:10 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:10 PM
-	 PROCESSING_TIME => 2.0001
-2013-02-26 19:10:11,878 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => d22p1idf2q0pq4pycu0t5orm
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_BROWSER => IE/8.0
-	 USER_PLATFORM => WinNT/Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_LANG => en-US
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 190
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:11 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:11 PM
-	 PROCESSING_TIME => 1
-2013-02-26 19:10:15,306 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => d22p1idf2q0pq4pycu0t5orm
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_BROWSER => IE/8.0
-	 USER_PLATFORM => WinNT/Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_LANG => en-US
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:15 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:15 PM
-	 PROCESSING_TIME => 1.0001
-2013-02-26 19:10:16,864 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => d22p1idf2q0pq4pycu0t5orm
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_BROWSER => IE/8.0
-	 USER_PLATFORM => WinNT/Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_LANG => en-US
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:16 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:16 PM
-	 PROCESSING_TIME => 2.0001
-2013-02-26 19:10:17,635 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => d22p1idf2q0pq4pycu0t5orm
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_BROWSER => IE/8.0
-	 USER_PLATFORM => WinNT/Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_LANG => en-US
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:17 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:17 PM
-	 PROCESSING_TIME => 2.0001
-2013-02-26 19:10:18,995 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_BROWSER => IE/8.0
-	 USER_PLATFORM => WinNT/Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_LANG => en-US
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/post.html
-	 REQUEST_REFERER => 
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:18 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:18 PM
-	 PROCESSING_TIME => 0
-2013-02-26 19:10:19,022 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_BROWSER => IE/8.0
-	 USER_PLATFORM => WinNT/Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_LANG => en-US
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => application/x-javascript
-	 REQUEST_PAGE => /honeypots-app/Scripts/jquery-1.4.1.min.js
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:19 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:19 PM
-	 PROCESSING_TIME => 0
-2013-02-26 19:10:19,114 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => d22p1idf2q0pq4pycu0t5orm
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_BROWSER => IE/8.0
-	 USER_PLATFORM => WinNT/Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_LANG => en-US
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:19 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:19 PM
-	 PROCESSING_TIME => 1.0001
-2013-02-26 19:10:20,252 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => d22p1idf2q0pq4pycu0t5orm
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_BROWSER => IE/8.0
-	 USER_PLATFORM => WinNT/Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_LANG => en-US
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 258
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:20 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:20 PM
-	 PROCESSING_TIME => 2.0002
-2013-02-26 19:10:22,558 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => d22p1idf2q0pq4pycu0t5orm
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_BROWSER => IE/8.0
-	 USER_PLATFORM => WinNT/Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_LANG => en-US
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:22 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:22 PM
-	 PROCESSING_TIME => 2.0002
-2013-02-26 19:10:23,613 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => d22p1idf2q0pq4pycu0t5orm
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_BROWSER => IE/8.0
-	 USER_PLATFORM => WinNT/Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_LANG => en-US
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 260
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:23 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:23 PM
-	 PROCESSING_TIME => 3.0002
-2013-02-26 19:10:25,247 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => d22p1idf2q0pq4pycu0t5orm
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_BROWSER => IE/8.0
-	 USER_PLATFORM => WinNT/Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_LANG => en-US
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:25 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:25 PM
-	 PROCESSING_TIME => 4.0003
-2013-02-26 19:10:26,023 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => d22p1idf2q0pq4pycu0t5orm
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_BROWSER => IE/8.0
-	 USER_PLATFORM => WinNT/Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_LANG => en-US
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 260
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:26 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:26 PM
-	 PROCESSING_TIME => 3.0001
-2013-02-26 19:10:28,255 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => d22p1idf2q0pq4pycu0t5orm
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_BROWSER => IE/8.0
-	 USER_PLATFORM => WinNT/Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_LANG => en-US
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:28 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:28 PM
-	 PROCESSING_TIME => 3.0001
-2013-02-26 19:10:29,270 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => d22p1idf2q0pq4pycu0t5orm
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_BROWSER => IE/8.0
-	 USER_PLATFORM => WinNT/Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_LANG => en-US
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 258
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:29 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:29 PM
-	 PROCESSING_TIME => 3.0002
-2013-02-26 19:10:30,630 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => d22p1idf2q0pq4pycu0t5orm
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_BROWSER => IE/8.0
-	 USER_PLATFORM => WinNT/Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-	 USER_LANG => en-US
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/like.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/post.html
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 26/02/2013 7:10:30 PM
-	 REQUEST_END_TIME => 26/02/2013 7:10:30 PM
-	 PROCESSING_TIME => 2.0001
-2013-03-03 11:58:23,686 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => 
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 11:58:18 AM
-	 REQUEST_END_TIME => 03/03/2013 11:58:20 AM
-	 PROCESSING_TIME => 1806.1033
-2013-03-03 11:58:24,494 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 11:58:24 AM
-	 REQUEST_END_TIME => 03/03/2013 11:58:24 AM
-	 PROCESSING_TIME => 147.0084
-2013-03-03 11:58:29,798 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 382
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 11:58:29 AM
-	 REQUEST_END_TIME => 03/03/2013 11:58:29 AM
-	 PROCESSING_TIME => 3.0002
-2013-03-03 11:58:29,992 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 11:58:29 AM
-	 REQUEST_END_TIME => 03/03/2013 11:58:29 AM
-	 PROCESSING_TIME => 1
-2013-03-03 11:58:30,705 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 382
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 11:58:30 AM
-	 REQUEST_END_TIME => 03/03/2013 11:58:30 AM
-	 PROCESSING_TIME => 3.0001
-2013-03-03 11:58:30,745 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 11:58:30 AM
-	 REQUEST_END_TIME => 03/03/2013 11:58:30 AM
-	 PROCESSING_TIME => 0
-2013-03-03 11:58:32,064 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 382
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 11:58:32 AM
-	 REQUEST_END_TIME => 03/03/2013 11:58:32 AM
-	 PROCESSING_TIME => 3.0002
-2013-03-03 11:58:32,203 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 11:58:32 AM
-	 REQUEST_END_TIME => 03/03/2013 11:58:32 AM
-	 PROCESSING_TIME => 0
-2013-03-03 12:05:35,583 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => 
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:05:30 PM
-	 REQUEST_END_TIME => 03/03/2013 12:05:35 PM
-	 PROCESSING_TIME => 5507.315
-2013-03-03 12:05:35,922 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:05:35 PM
-	 REQUEST_END_TIME => 03/03/2013 12:05:35 PM
-	 PROCESSING_TIME => 1
-2013-03-03 12:05:36,095 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => application/x-javascript
-	 REQUEST_PAGE => /honeypots-app/WebResource.axd
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:05:35 PM
-	 REQUEST_END_TIME => 03/03/2013 12:05:36 PM
-	 PROCESSING_TIME => 253.0145
-2013-03-03 12:05:36,125 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => application/x-javascript
-	 REQUEST_PAGE => /honeypots-app/WebResource.axd
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:05:35 PM
-	 REQUEST_END_TIME => 03/03/2013 12:05:36 PM
-	 PROCESSING_TIME => 242.0139
-2013-03-03 12:05:54,303 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => 
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:05:53 PM
-	 REQUEST_END_TIME => 03/03/2013 12:05:54 PM
-	 PROCESSING_TIME => 847.0485
-2013-03-03 12:05:54,381 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:05:54 PM
-	 REQUEST_END_TIME => 03/03/2013 12:05:54 PM
-	 PROCESSING_TIME => 0
-2013-03-03 12:05:54,397 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/WebResource.axd
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 304
-	 REQUEST_START_TIME => 03/03/2013 12:05:54 PM
-	 REQUEST_END_TIME => 03/03/2013 12:05:54 PM
-	 PROCESSING_TIME => 15.0009
-2013-03-03 12:05:54,402 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/WebResource.axd
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 304
-	 REQUEST_START_TIME => 03/03/2013 12:05:54 PM
-	 REQUEST_END_TIME => 03/03/2013 12:05:54 PM
-	 PROCESSING_TIME => 14.0008
-2013-03-03 12:05:54,425 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => application/x-javascript
-	 REQUEST_PAGE => /honeypots-app/WebResource.axd
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:05:54 PM
-	 REQUEST_END_TIME => 03/03/2013 12:05:54 PM
-	 PROCESSING_TIME => 16.0009
-2013-03-03 12:05:54,479 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
 	 REQUEST_TYPE => GET
 	 MIME_TYPE => image/gif
-	 REQUEST_PAGE => /honeypots-app/WebResource.axd
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
+	 REQUEST_PAGE => /honeypots-app/h-admin/images/bgimage.gif
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performancedetails.aspx?page=/honeypots-app/h-admin/activityhistory.aspx
 	 REQUEST_CONTENT_SIZE => 0
 	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:05:54 PM
-	 REQUEST_END_TIME => 03/03/2013 12:05:54 PM
-	 PROCESSING_TIME => 2.0001
-2013-03-03 12:05:55,630 [INFO] InfoLogger 
+	 REQUEST_START_TIME => 24/03/2013 10:49:25 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:25 AM
+	 PROCESSING_TIME => 0
+2013-03-24 10:49:30,854 [INFO] InfoLogger 
 	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
+	 USER_SESSION_ID => m5bslfozhsvpgwhfnnt02iwv
 	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
 	 USER_LANG => en-US,en;q=0.8
 	 USER_LOCATION => --/--
 	 REQUEST_TYPE => POST
 	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 416
+	 REQUEST_PAGE => /honeypots-app/h-admin/performancedetails.aspx
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performancedetails.aspx?page=/honeypots-app/h-admin/activityhistory.aspx
+	 REQUEST_CONTENT_SIZE => 904
 	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:05:55 PM
-	 REQUEST_END_TIME => 03/03/2013 12:05:55 PM
-	 PROCESSING_TIME => 4.0002
-2013-03-03 12:05:55,659 [INFO] InfoLogger 
+	 REQUEST_START_TIME => 24/03/2013 10:49:30 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:30 AM
+	 PROCESSING_TIME => 11.0006
+2013-03-24 10:49:30,904 [INFO] InfoLogger 
 	===============|| REQUEST LOG DETAILS ||===============
 	 USER_SESSION_ID => 
 	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
 	 USER_LANG => en-US,en;q=0.8
 	 USER_LOCATION => 
 	 REQUEST_TYPE => GET
 	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
+	 REQUEST_PAGE => /honeypots-app/h-admin/Styles/default.css
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performancedetails.aspx?page=/honeypots-app/h-admin/activityhistory.aspx
 	 REQUEST_CONTENT_SIZE => 0
 	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:05:55 PM
-	 REQUEST_END_TIME => 03/03/2013 12:05:55 PM
-	 PROCESSING_TIME => 0
-2013-03-03 12:13:23,005 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => 
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:13:22 PM
-	 REQUEST_END_TIME => 03/03/2013 12:13:22 PM
-	 PROCESSING_TIME => 826.0472
-2013-03-03 12:13:23,032 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:13:23 PM
-	 REQUEST_END_TIME => 03/03/2013 12:13:23 PM
+	 REQUEST_START_TIME => 24/03/2013 10:49:30 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:30 AM
 	 PROCESSING_TIME => 1.0001
-2013-03-03 12:13:24,041 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => 
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:13:24 PM
-	 REQUEST_END_TIME => 03/03/2013 12:13:24 PM
-	 PROCESSING_TIME => 3.0001
-2013-03-03 12:13:24,061 [INFO] InfoLogger 
+2013-03-24 10:49:30,904 [INFO] InfoLogger 
 	===============|| REQUEST LOG DETAILS ||===============
 	 USER_SESSION_ID => 
 	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
 	 USER_LANG => en-US,en;q=0.8
 	 USER_LOCATION => 
 	 REQUEST_TYPE => GET
 	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
+	 REQUEST_PAGE => /honeypots-app/h-admin/Styles/baseStyle.css
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performancedetails.aspx?page=/honeypots-app/h-admin/activityhistory.aspx
 	 REQUEST_CONTENT_SIZE => 0
 	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:13:24 PM
-	 REQUEST_END_TIME => 03/03/2013 12:13:24 PM
+	 REQUEST_START_TIME => 24/03/2013 10:49:30 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:30 AM
+	 PROCESSING_TIME => 1.0001
+2013-03-24 10:49:30,912 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => application/x-javascript
+	 REQUEST_PAGE => /honeypots-app/h-admin/Scripts/jquery-1.4.1.min.js
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performancedetails.aspx?page=/honeypots-app/h-admin/activityhistory.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:30 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:30 AM
 	 PROCESSING_TIME => 0
-2013-03-03 12:13:31,288 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 424
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:13:29 PM
-	 REQUEST_END_TIME => 03/03/2013 12:13:31 PM
-	 PROCESSING_TIME => 1837.1051
-2013-03-03 12:13:31,374 [INFO] InfoLogger 
+2013-03-24 10:49:31,316 [INFO] InfoLogger 
 	===============|| REQUEST LOG DETAILS ||===============
 	 USER_SESSION_ID => 
 	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
 	 USER_LANG => en-US,en;q=0.8
 	 USER_LOCATION => 
 	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
+	 MIME_TYPE => image/gif
+	 REQUEST_PAGE => /honeypots-app/h-admin/images/bgimage.gif
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performancedetails.aspx?page=/honeypots-app/h-admin/activityhistory.aspx
 	 REQUEST_CONTENT_SIZE => 0
 	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:13:31 PM
-	 REQUEST_END_TIME => 03/03/2013 12:13:31 PM
-	 PROCESSING_TIME => 0
-2013-03-03 12:16:34,730 [INFO] InfoLogger 
+	 REQUEST_START_TIME => 24/03/2013 10:49:31 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:31 AM
+	 PROCESSING_TIME => 1.0001
+2013-03-24 10:49:40,050 [INFO] InfoLogger 
 	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
+	 USER_SESSION_ID => m5bslfozhsvpgwhfnnt02iwv
 	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
 	 USER_LANG => en-US,en;q=0.8
 	 USER_LOCATION => --/--
 	 REQUEST_TYPE => GET
 	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => 
+	 REQUEST_PAGE => /honeypots-app/h-admin/performance.aspx
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performancedetails.aspx?page=/honeypots-app/h-admin/activityhistory.aspx
 	 REQUEST_CONTENT_SIZE => 0
 	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:16:32 PM
-	 REQUEST_END_TIME => 03/03/2013 12:16:34 PM
-	 PROCESSING_TIME => 2257.1291
-2013-03-03 12:16:34,748 [INFO] InfoLogger 
+	 REQUEST_START_TIME => 24/03/2013 10:49:40 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:40 AM
+	 PROCESSING_TIME => 6.0004
+2013-03-24 10:49:40,082 [INFO] InfoLogger 
 	===============|| REQUEST LOG DETAILS ||===============
 	 USER_SESSION_ID => 
 	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
 	 USER_LANG => en-US,en;q=0.8
 	 USER_LOCATION => 
 	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
+	 MIME_TYPE => application/x-javascript
+	 REQUEST_PAGE => /honeypots-app/h-admin/Scripts/jquery-1.4.1.min.js
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performance.aspx
 	 REQUEST_CONTENT_SIZE => 0
 	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:16:34 PM
-	 REQUEST_END_TIME => 03/03/2013 12:16:34 PM
-	 PROCESSING_TIME => 0
-2013-03-03 12:16:35,777 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => 
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:16:35 PM
-	 REQUEST_END_TIME => 03/03/2013 12:16:35 PM
-	 PROCESSING_TIME => 4.0002
-2013-03-03 12:16:35,813 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:16:35 PM
-	 REQUEST_END_TIME => 03/03/2013 12:16:35 PM
+	 REQUEST_START_TIME => 24/03/2013 10:49:40 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:40 AM
 	 PROCESSING_TIME => 1
-2013-03-03 12:16:44,479 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 422
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:16:44 PM
-	 REQUEST_END_TIME => 03/03/2013 12:16:44 PM
-	 PROCESSING_TIME => 34.0019
-2013-03-03 12:16:44,515 [INFO] InfoLogger 
+2013-03-24 10:49:40,083 [INFO] InfoLogger 
 	===============|| REQUEST LOG DETAILS ||===============
 	 USER_SESSION_ID => 
 	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
 	 USER_LANG => en-US,en;q=0.8
 	 USER_LOCATION => 
 	 REQUEST_TYPE => GET
 	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
+	 REQUEST_PAGE => /honeypots-app/h-admin/Styles/default.css
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performance.aspx
 	 REQUEST_CONTENT_SIZE => 0
 	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:16:44 PM
-	 REQUEST_END_TIME => 03/03/2013 12:16:44 PM
-	 PROCESSING_TIME => 0
-2013-03-03 12:17:44,507 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => 
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:17:43 PM
-	 REQUEST_END_TIME => 03/03/2013 12:17:44 PM
-	 PROCESSING_TIME => 616.0352
-2013-03-03 12:17:44,524 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:17:44 PM
-	 REQUEST_END_TIME => 03/03/2013 12:17:44 PM
-	 PROCESSING_TIME => 0
-2013-03-03 12:17:46,043 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 414
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:17:46 PM
-	 REQUEST_END_TIME => 03/03/2013 12:17:46 PM
-	 PROCESSING_TIME => 2.0001
-2013-03-03 12:17:46,060 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:17:46 PM
-	 REQUEST_END_TIME => 03/03/2013 12:17:46 PM
-	 PROCESSING_TIME => 0
-2013-03-03 12:17:49,189 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 424
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:17:49 PM
-	 REQUEST_END_TIME => 03/03/2013 12:17:49 PM
-	 PROCESSING_TIME => 2.0001
-2013-03-03 12:17:49,223 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:17:49 PM
-	 REQUEST_END_TIME => 03/03/2013 12:17:49 PM
-	 PROCESSING_TIME => 0
-2013-03-03 12:17:53,414 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 422
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:17:53 PM
-	 REQUEST_END_TIME => 03/03/2013 12:17:53 PM
-	 PROCESSING_TIME => 8.0005
-2013-03-03 12:17:53,447 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:17:53 PM
-	 REQUEST_END_TIME => 03/03/2013 12:17:53 PM
-	 PROCESSING_TIME => 0
-2013-03-03 12:17:54,914 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 330
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:17:54 PM
-	 REQUEST_END_TIME => 03/03/2013 12:17:54 PM
-	 PROCESSING_TIME => 3.0001
-2013-03-03 12:17:54,937 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:17:54 PM
-	 REQUEST_END_TIME => 03/03/2013 12:17:54 PM
-	 PROCESSING_TIME => 0
-2013-03-03 12:17:59,491 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 450
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:17:59 PM
-	 REQUEST_END_TIME => 03/03/2013 12:17:59 PM
-	 PROCESSING_TIME => 11.0007
-2013-03-03 12:17:59,606 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:17:59 PM
-	 REQUEST_END_TIME => 03/03/2013 12:17:59 PM
-	 PROCESSING_TIME => 0
-2013-03-03 12:18:00,818 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 330
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:18:00 PM
-	 REQUEST_END_TIME => 03/03/2013 12:18:00 PM
-	 PROCESSING_TIME => 5.0003
-2013-03-03 12:18:00,840 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:18:00 PM
-	 REQUEST_END_TIME => 03/03/2013 12:18:00 PM
+	 REQUEST_START_TIME => 24/03/2013 10:49:40 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:40 AM
 	 PROCESSING_TIME => 1
-2013-03-03 12:18:03,423 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 450
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:18:03 PM
-	 REQUEST_END_TIME => 03/03/2013 12:18:03 PM
-	 PROCESSING_TIME => 6.0003
-2013-03-03 12:18:03,452 [INFO] InfoLogger 
+2013-03-24 10:49:40,084 [INFO] InfoLogger 
 	===============|| REQUEST LOG DETAILS ||===============
 	 USER_SESSION_ID => 
 	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
 	 USER_LANG => en-US,en;q=0.8
 	 USER_LOCATION => 
 	 REQUEST_TYPE => GET
 	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
+	 REQUEST_PAGE => /honeypots-app/h-admin/Styles/baseStyle.css
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performance.aspx
 	 REQUEST_CONTENT_SIZE => 0
 	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:18:03 PM
-	 REQUEST_END_TIME => 03/03/2013 12:18:03 PM
+	 REQUEST_START_TIME => 24/03/2013 10:49:40 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:40 AM
 	 PROCESSING_TIME => 0
-2013-03-03 12:18:08,316 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 330
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:18:08 PM
-	 REQUEST_END_TIME => 03/03/2013 12:18:08 PM
-	 PROCESSING_TIME => 4.0002
-2013-03-03 12:18:08,341 [INFO] InfoLogger 
+2013-03-24 10:49:40,177 [INFO] InfoLogger 
 	===============|| REQUEST LOG DETAILS ||===============
 	 USER_SESSION_ID => 
 	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
 	 USER_LANG => en-US,en;q=0.8
 	 USER_LOCATION => 
 	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
+	 MIME_TYPE => image/gif
+	 REQUEST_PAGE => /honeypots-app/h-admin/images/bgimage.gif
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performance.aspx
 	 REQUEST_CONTENT_SIZE => 0
 	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:18:08 PM
-	 REQUEST_END_TIME => 03/03/2013 12:18:08 PM
+	 REQUEST_START_TIME => 24/03/2013 10:49:40 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:40 AM
 	 PROCESSING_TIME => 0
-2013-03-03 12:18:24,712 [INFO] InfoLogger 
+2013-03-24 10:49:45,324 [INFO] InfoLogger 
 	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
+	 USER_SESSION_ID => m5bslfozhsvpgwhfnnt02iwv
 	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
 	 USER_LANG => en-US,en;q=0.8
 	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
+	 REQUEST_TYPE => GET
 	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 466
+	 REQUEST_PAGE => /honeypots-app/h-admin/performancedetails.aspx
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performance.aspx
+	 REQUEST_CONTENT_SIZE => 0
 	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:18:24 PM
-	 REQUEST_END_TIME => 03/03/2013 12:18:24 PM
-	 PROCESSING_TIME => 5.0003
-2013-03-03 12:18:24,812 [INFO] InfoLogger 
+	 REQUEST_START_TIME => 24/03/2013 10:49:45 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:45 AM
+	 PROCESSING_TIME => 11.0006
+2013-03-24 10:49:45,369 [INFO] InfoLogger 
 	===============|| REQUEST LOG DETAILS ||===============
 	 USER_SESSION_ID => 
 	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
 	 USER_LANG => en-US,en;q=0.8
 	 USER_LOCATION => 
 	 REQUEST_TYPE => GET
 	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
+	 REQUEST_PAGE => /honeypots-app/h-admin/Styles/default.css
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performancedetails.aspx?page=/honeypots-app/h-admin/useractivity.aspx
 	 REQUEST_CONTENT_SIZE => 0
 	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:18:24 PM
-	 REQUEST_END_TIME => 03/03/2013 12:18:24 PM
+	 REQUEST_START_TIME => 24/03/2013 10:49:45 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:45 AM
 	 PROCESSING_TIME => 0
-2013-03-03 12:18:26,314 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 362
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:18:26 PM
-	 REQUEST_END_TIME => 03/03/2013 12:18:26 PM
-	 PROCESSING_TIME => 4.0002
-2013-03-03 12:18:26,341 [INFO] InfoLogger 
+2013-03-24 10:49:45,370 [INFO] InfoLogger 
 	===============|| REQUEST LOG DETAILS ||===============
 	 USER_SESSION_ID => 
 	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
 	 USER_LANG => en-US,en;q=0.8
 	 USER_LOCATION => 
 	 REQUEST_TYPE => GET
 	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
+	 REQUEST_PAGE => /honeypots-app/h-admin/Styles/baseStyle.css
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performancedetails.aspx?page=/honeypots-app/h-admin/useractivity.aspx
 	 REQUEST_CONTENT_SIZE => 0
 	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:18:26 PM
-	 REQUEST_END_TIME => 03/03/2013 12:18:26 PM
+	 REQUEST_START_TIME => 24/03/2013 10:49:45 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:45 AM
+	 PROCESSING_TIME => 1
+2013-03-24 10:49:45,371 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => application/x-javascript
+	 REQUEST_PAGE => /honeypots-app/h-admin/Scripts/jquery-1.4.1.min.js
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performancedetails.aspx?page=/honeypots-app/h-admin/useractivity.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:45 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:45 AM
 	 PROCESSING_TIME => 0
-2013-03-03 12:19:11,881 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 454
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:19:10 PM
-	 REQUEST_END_TIME => 03/03/2013 12:19:11 PM
-	 PROCESSING_TIME => 1163.0665
-2013-03-03 12:19:11,898 [INFO] InfoLogger 
+2013-03-24 10:49:45,475 [INFO] InfoLogger 
 	===============|| REQUEST LOG DETAILS ||===============
 	 USER_SESSION_ID => 
 	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
 	 USER_LANG => en-US,en;q=0.8
 	 USER_LOCATION => 
 	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
+	 MIME_TYPE => image/gif
+	 REQUEST_PAGE => /honeypots-app/h-admin/images/bgimage.gif
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performancedetails.aspx?page=/honeypots-app/h-admin/useractivity.aspx
 	 REQUEST_CONTENT_SIZE => 0
 	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:19:11 PM
-	 REQUEST_END_TIME => 03/03/2013 12:19:11 PM
-	 PROCESSING_TIME => 0
-2013-03-03 12:19:14,906 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 330
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:19:14 PM
-	 REQUEST_END_TIME => 03/03/2013 12:19:14 PM
-	 PROCESSING_TIME => 4.0002
-2013-03-03 12:19:14,927 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:19:14 PM
-	 REQUEST_END_TIME => 03/03/2013 12:19:14 PM
+	 REQUEST_START_TIME => 24/03/2013 10:49:45 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:45 AM
 	 PROCESSING_TIME => 1.0001
-2013-03-03 12:19:17,733 [INFO] InfoLogger 
+2013-03-24 10:49:49,752 [INFO] InfoLogger 
 	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
+	 USER_SESSION_ID => m5bslfozhsvpgwhfnnt02iwv
 	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
 	 USER_LANG => en-US,en;q=0.8
 	 USER_LOCATION => --/--
 	 REQUEST_TYPE => POST
 	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 466
+	 REQUEST_PAGE => /honeypots-app/h-admin/performancedetails.aspx
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performancedetails.aspx?page=/honeypots-app/h-admin/useractivity.aspx
+	 REQUEST_CONTENT_SIZE => 893
 	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:19:17 PM
-	 REQUEST_END_TIME => 03/03/2013 12:19:17 PM
-	 PROCESSING_TIME => 5.0002
-2013-03-03 12:19:17,766 [INFO] InfoLogger 
+	 REQUEST_START_TIME => 24/03/2013 10:49:49 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:49 AM
+	 PROCESSING_TIME => 13.0007
+2013-03-24 10:49:49,819 [INFO] InfoLogger 
 	===============|| REQUEST LOG DETAILS ||===============
 	 USER_SESSION_ID => 
 	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => application/x-javascript
+	 REQUEST_PAGE => /honeypots-app/h-admin/Scripts/jquery-1.4.1.min.js
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performancedetails.aspx?page=/honeypots-app/h-admin/useractivity.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:49 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:49 AM
+	 PROCESSING_TIME => 1
+2013-03-24 10:49:49,819 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
 	 USER_LANG => en-US,en;q=0.8
 	 USER_LOCATION => 
 	 REQUEST_TYPE => GET
 	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
+	 REQUEST_PAGE => /honeypots-app/h-admin/Styles/default.css
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performancedetails.aspx?page=/honeypots-app/h-admin/useractivity.aspx
 	 REQUEST_CONTENT_SIZE => 0
 	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:19:17 PM
-	 REQUEST_END_TIME => 03/03/2013 12:19:17 PM
-	 PROCESSING_TIME => 1.0001
-2013-03-03 12:19:20,019 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => xl0pxeoysjwndocinyc3td3f
-	 USER_DOMAIN => --/--/--/127.0.0.1
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => --/--
-	 REQUEST_TYPE => POST
-	 MIME_TYPE => text/html
-	 REQUEST_PAGE => /honeypots-app/TestSQLInject.aspx
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 362
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:19:19 PM
-	 REQUEST_END_TIME => 03/03/2013 12:19:19 PM
-	 PROCESSING_TIME => 4.0003
-2013-03-03 12:19:20,038 [INFO] InfoLogger 
-	===============|| REQUEST LOG DETAILS ||===============
-	 USER_SESSION_ID => 
-	 USER_DOMAIN => 
-	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_BROWSER => Chrome/25.0.1364.97
-	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.97 Safari/537.22
-	 USER_LANG => en-US,en;q=0.8
-	 USER_LOCATION => 
-	 REQUEST_TYPE => GET
-	 MIME_TYPE => text/css
-	 REQUEST_PAGE => /honeypots-app/Styles/Site.css
-	 REQUEST_REFERER => http://localhost:1922/honeypots-app/TestSQLInject.aspx
-	 REQUEST_CONTENT_SIZE => 0
-	 RESPOSE_STATUS => 200
-	 REQUEST_START_TIME => 03/03/2013 12:19:20 PM
-	 REQUEST_END_TIME => 03/03/2013 12:19:20 PM
+	 REQUEST_START_TIME => 24/03/2013 10:49:49 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:49 AM
 	 PROCESSING_TIME => 0
+2013-03-24 10:49:49,833 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => text/css
+	 REQUEST_PAGE => /honeypots-app/h-admin/Styles/baseStyle.css
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performancedetails.aspx?page=/honeypots-app/h-admin/useractivity.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:49 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:49 AM
+	 PROCESSING_TIME => 0
+2013-03-24 10:49:49,965 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => image/gif
+	 REQUEST_PAGE => /honeypots-app/h-admin/images/bgimage.gif
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performancedetails.aspx?page=/honeypots-app/h-admin/useractivity.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:49 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:49 AM
+	 PROCESSING_TIME => 1
+2013-03-24 10:49:52,842 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => m5bslfozhsvpgwhfnnt02iwv
+	 USER_DOMAIN => --/--/--/127.0.0.1
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => --/--
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => text/html
+	 REQUEST_PAGE => /honeypots-app/h-admin/performance.aspx
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performancedetails.aspx?page=/honeypots-app/h-admin/useractivity.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:52 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:52 AM
+	 PROCESSING_TIME => 8.0004
+2013-03-24 10:49:52,870 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => text/css
+	 REQUEST_PAGE => /honeypots-app/h-admin/Styles/baseStyle.css
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performance.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:52 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:52 AM
+	 PROCESSING_TIME => 0
+2013-03-24 10:49:52,871 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => application/x-javascript
+	 REQUEST_PAGE => /honeypots-app/h-admin/Scripts/jquery-1.4.1.min.js
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performance.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:52 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:52 AM
+	 PROCESSING_TIME => 0
+2013-03-24 10:49:52,873 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => text/css
+	 REQUEST_PAGE => /honeypots-app/h-admin/Styles/default.css
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performance.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:52 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:52 AM
+	 PROCESSING_TIME => 0
+2013-03-24 10:49:52,970 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => image/gif
+	 REQUEST_PAGE => /honeypots-app/h-admin/images/bgimage.gif
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performance.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:52 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:52 AM
+	 PROCESSING_TIME => 0
+2013-03-24 10:49:53,317 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => m5bslfozhsvpgwhfnnt02iwv
+	 USER_DOMAIN => --/--/--/127.0.0.1
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => --/--
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => text/html
+	 REQUEST_PAGE => /honeypots-app/h-admin/activityhistory.aspx
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/performance.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:53 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:53 AM
+	 PROCESSING_TIME => 11.0006
+2013-03-24 10:49:53,344 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => text/css
+	 REQUEST_PAGE => /honeypots-app/h-admin/Styles/baseStyle.css
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/activityhistory.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:53 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:53 AM
+	 PROCESSING_TIME => 1
+2013-03-24 10:49:53,345 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => text/css
+	 REQUEST_PAGE => /honeypots-app/h-admin/Styles/default.css
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/activityhistory.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:53 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:53 AM
+	 PROCESSING_TIME => 0
+2013-03-24 10:49:53,345 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => application/x-javascript
+	 REQUEST_PAGE => /honeypots-app/h-admin/Scripts/jquery-1.4.1.min.js
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/activityhistory.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:53 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:53 AM
+	 PROCESSING_TIME => 0
+2013-03-24 10:49:53,491 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => image/gif
+	 REQUEST_PAGE => /honeypots-app/h-admin/images/bgimage.gif
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/activityhistory.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:53 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:53 AM
+	 PROCESSING_TIME => 1.0001
+2013-03-24 10:49:53,857 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => m5bslfozhsvpgwhfnnt02iwv
+	 USER_DOMAIN => --/--/--/127.0.0.1
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => --/--
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => text/html
+	 REQUEST_PAGE => /honeypots-app/h-admin/useractivity.aspx
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/activityhistory.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:53 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:53 AM
+	 PROCESSING_TIME => 134.0077
+2013-03-24 10:49:53,887 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => text/css
+	 REQUEST_PAGE => /honeypots-app/h-admin/Styles/baseStyle.css
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/useractivity.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:53 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:53 AM
+	 PROCESSING_TIME => 1
+2013-03-24 10:49:53,889 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => text/css
+	 REQUEST_PAGE => /honeypots-app/h-admin/Styles/default.css
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/useractivity.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:53 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:53 AM
+	 PROCESSING_TIME => 1
+2013-03-24 10:49:53,893 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => application/x-javascript
+	 REQUEST_PAGE => /honeypots-app/h-admin/Scripts/auto.js
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/useractivity.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:53 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:53 AM
+	 PROCESSING_TIME => 1.0001
+2013-03-24 10:49:53,894 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => application/x-javascript
+	 REQUEST_PAGE => /honeypots-app/h-admin/Scripts/jquery-1.4.1.min.js
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/useractivity.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:53 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:53 AM
+	 PROCESSING_TIME => 0
+2013-03-24 10:49:54,010 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => image/gif
+	 REQUEST_PAGE => /honeypots-app/h-admin/images/bgimage.gif
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/useractivity.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:54 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:54 AM
+	 PROCESSING_TIME => 0
+2013-03-24 10:49:54,011 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => m5bslfozhsvpgwhfnnt02iwv
+	 USER_DOMAIN => --/--/--/127.0.0.1
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => --/--
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => image/png
+	 REQUEST_PAGE => /honeypots-app/h-admin/ChartImg.axd
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/useractivity.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:54 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:54 AM
+	 PROCESSING_TIME => 7.0004
+2013-03-24 10:49:54,142 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => m5bslfozhsvpgwhfnnt02iwv
+	 USER_DOMAIN => --/--/--/127.0.0.1
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => --/--
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => text/html
+	 REQUEST_PAGE => /honeypots-app/h-admin/home.aspx
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/useractivity.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:54 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:54 AM
+	 PROCESSING_TIME => 4.0002
+2013-03-24 10:49:54,165 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => text/css
+	 REQUEST_PAGE => /honeypots-app/h-admin/Styles/baseStyle.css
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/home.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:54 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:54 AM
+	 PROCESSING_TIME => 0
+2013-03-24 10:49:54,165 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => application/x-javascript
+	 REQUEST_PAGE => /honeypots-app/h-admin/Scripts/jquery-1.4.1.min.js
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/home.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:54 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:54 AM
+	 PROCESSING_TIME => 0
+2013-03-24 10:49:54,167 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => text/css
+	 REQUEST_PAGE => /honeypots-app/h-admin/Styles/default.css
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/home.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:54 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:54 AM
+	 PROCESSING_TIME => 0
+2013-03-24 10:49:54,255 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => 
+	 USER_DOMAIN => 
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => 
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => image/gif
+	 REQUEST_PAGE => /honeypots-app/h-admin/images/bgimage.gif
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/home.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:54 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:54 AM
+	 PROCESSING_TIME => 0
+2013-03-24 10:49:54,518 [INFO] InfoLogger 
+	===============|| REQUEST LOG DETAILS ||===============
+	 USER_SESSION_ID => m5bslfozhsvpgwhfnnt02iwv
+	 USER_DOMAIN => --/--/--/127.0.0.1
+	 USER_AGENT => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_BROWSER => Chrome/25.0.1364.172
+	 USER_PLATFORM => WinNT/Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+	 USER_LANG => en-US,en;q=0.8
+	 USER_LOCATION => --/--
+	 REQUEST_TYPE => GET
+	 MIME_TYPE => image/png
+	 REQUEST_PAGE => /honeypots-app/h-admin/ChartImg.axd
+	 REQUEST_REFERER => http://localhost:1922/honeypots-app/h-admin/useractivity.aspx
+	 REQUEST_CONTENT_SIZE => 0
+	 RESPOSE_STATUS => 200
+	 REQUEST_START_TIME => 24/03/2013 10:49:54 AM
+	 REQUEST_END_TIME => 24/03/2013 10:49:54 AM
+	 PROCESSING_TIME => 513.0293

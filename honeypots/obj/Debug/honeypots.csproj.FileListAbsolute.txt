@@ -1,8 +1,8 @@
 D:\Visual Studio\projects\honeypots\honeypots\bin\Debug\honeypots.dll
 D:\Visual Studio\projects\honeypots\honeypots\bin\Debug\honeypots.pdb
+D:\Visual Studio\projects\honeypots\honeypots\bin\Debug\gudusoft.gsqlparser.dll
+D:\Visual Studio\projects\honeypots\honeypots\bin\Debug\log4net.dll
+D:\Visual Studio\projects\honeypots\honeypots\bin\Debug\log4net.xml
 D:\Visual Studio\projects\honeypots\honeypots\obj\Debug\ResolveAssemblyReference.cache
 D:\Visual Studio\projects\honeypots\honeypots\obj\Debug\honeypots.dll
 D:\Visual Studio\projects\honeypots\honeypots\obj\Debug\honeypots.pdb
-D:\Visual Studio\projects\honeypots\honeypots\bin\Debug\log4net.dll
-D:\Visual Studio\projects\honeypots\honeypots\bin\Debug\log4net.xml
-D:\Visual Studio\projects\honeypots\honeypots\bin\Debug\gudusoft.gsqlparser.dll
